@@ -370,3 +370,5 @@ def update_vis_range(city):
 
 if __name__ == '__main__':
      app.run_server()
+
+server = app.server
