@@ -3,7 +3,5 @@ gunicorn
 plotly==5.15.0
 dash-tools
 
-matplotlib
-seaborn
 pandas
 sklearn
